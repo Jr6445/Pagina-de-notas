@@ -48,6 +48,13 @@
     color: black;
 }
 
+.next{
+    width: 25px;
+}
+
+.uls{
+padding: 25px;
+}
 @media (max-width:1059px) {
     .h2{
         display: none;
